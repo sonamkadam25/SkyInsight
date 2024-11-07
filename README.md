@@ -33,7 +33,7 @@ Contributions to the Weather-App project are welcome. If you find any issues or 
 SkyInsight is created by me, which means you are free to use, modify, and distribute the code under the license terms.
 # Acknowledgements
 
-I also used the "OpenWeatherMap" API for this project which is a free API and that helped me a lot for this project
+I used the "OpenWeatherMap" API for this project which is a free API and that helped me a lot for this project
 
 # Contact
 
