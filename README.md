@@ -1,5 +1,6 @@
 # SkyInsight
 SkyInsight is a web application that provides real-time weather information for your area. It allows you to view the current temperature, wind speed, humidity, and cloud cover. Additionally, you can search for weather data by city name. 
+
 # Features
 
 1. Location-based Weather: Upon loading the website, the app will request your location to provide weather information specific to your area.
@@ -23,17 +24,16 @@ SkyInsight is a web application that provides real-time weather information for 
 
 # Installation
 
-No installation is required for this web application. Simply access the WeatherSense through your web browser from the link.
+This web application does not require installation. Simply access WeatherSense through your web browser from the link.
 Contributions
 
-Contributions to the Weather-App project are welcome. If you find any issues or have suggestions for improvements, please feel free to submit a pull request or open an issue in the GitHub repository.
+Contributions to the Weather-App project are welcome. If you find any issues or have suggestions for improvements, please submit a pull request or open an issue in the GitHub repository.
 # License
 
-SkyInsight is created by me , which means you are free to use, modify, and distribute the code in accordance with the terms of the license.
+SkyInsight is created by me, which means you are free to use, modify, and distribute the code under the license terms.
 # Acknowledgements
 
-1. I would like to thanks love Babbar for his Web Dev Course. His Course made all this possible.
-2. I also used "openweathermap" API for this project which is a free API and that helped me a lot for this project
+I also used the "OpenWeatherMap" API for this project which is a free API and that helped me a lot for this project
 
 # Contact
 
