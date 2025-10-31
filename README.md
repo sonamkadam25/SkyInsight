@@ -10,7 +10,7 @@ It leverages the **OpenWeatherMap API** and **Geolocation API** to deliver accur
 
 ---
 
-##  Features
+##  1️⃣ Features
 
 -  **Your Weather:** Automatically fetches weather data based on your current location using the Geolocation API.  
 -  **Search Weather:** Search for any city and get its real-time weather information.  
@@ -23,7 +23,7 @@ It leverages the **OpenWeatherMap API** and **Geolocation API** to deliver accur
 
 ---
 
-##  Color-Coded UI
+## 2️⃣ Color-Coded UI
 
 - **Tabs:** Switch between "Your Weather" and "Search Weather".  
 - **Loading Animation:** Displays a loading screen while fetching data.  
@@ -32,7 +32,7 @@ It leverages the **OpenWeatherMap API** and **Geolocation API** to deliver accur
 
 ---
 
-##  How It Works
+## 3️⃣ How It Works
 
 1. **Grant Location Access:**  
    Users can allow access to their location to fetch local weather data automatically.  
@@ -53,18 +53,18 @@ It leverages the **OpenWeatherMap API** and **Geolocation API** to deliver accur
 
 ---
 
-##  Project Structure
+## 4️⃣ Project Structure
 
-SkyInsight/
-├── index.html # Main HTML page
-├── style.css # Styling for the app
-├── script.js # JavaScript functionality
-├── images/ # Icons & images (location, wind, cloud, humidity, search, loading)
-└── README.md # Project documentation
+      SkyInsight/
+      ├── index.html # Main HTML page
+      ├── style.css # Styling for the app
+      ├── script.js # JavaScript functionality
+      ├── images/ # Icons & images (location, wind, cloud, humidity, search, loading)
+      └── README.md # Project documentation
 
 ---
 
-## Future Enhancements
+## 5️⃣ Future Enhancements
 
  - Forecast: Add 7-day or hourly weather forecast.
  - Dark Mode: Theme toggle based on time of day.
